@@ -1,0 +1,7 @@
+{
+    "domain": "hasslingbank",
+    "name": "hasslingbank",
+    "documentation": "",
+    "dependencies": [],
+    "codeowners": ["@AlasdairH"],
+  }
